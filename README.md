@@ -16,4 +16,4 @@ This repo contains information about 'how to create basic plots using seaborn' f
 * Grid
 * ClusterMap
 * Regression Map
-Reference : http://seaborn.pydata.org/
+* Reference : http://seaborn.pydata.org/
